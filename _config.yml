@@ -18,8 +18,8 @@ email: 2592509183@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   XRobot Doc
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://x-robots-org.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  x-robots-org
+url: "https://xrobot-org.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  xrobot-org
 
 # Build settings
 markdown: kramdown
